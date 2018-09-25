@@ -203,7 +203,6 @@ if __name__ == "__main__":
     ## test decorator
     # c = TestDec()
 
-
     ## test clss method sub par
     # x, y = AA(), AAA()
     # x.printNumIns()
